@@ -1,6 +1,6 @@
 #write your code here
 
-#INPUTS --> -->
+#INPUTS --> --> Integer
 #OUTPUTS
 #ACTIONS
 
