@@ -6,5 +6,6 @@
 
 def countdown(seconds)
   
-  while 
+  while seconds > 0 
+  
 end
