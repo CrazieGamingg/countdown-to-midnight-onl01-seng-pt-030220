@@ -2,7 +2,7 @@
 
 #INPUTS -->Starting number of seconds from midnight --> Integer
 #OUTPUTS --> "HAPPY NEW YEARS"--> String
-#ACTIONS --> puts out number of seconds left for each 
+#ACTIONS --> puts out number of seconds left for each loop -->
 
 def countdown
 end
