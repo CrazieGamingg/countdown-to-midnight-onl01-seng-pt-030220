@@ -7,5 +7,5 @@
 def countdown(seconds)
   
   while seconds > 0 
-  puts "SECOND(S)"
+  puts "#{SECOND(S)"
 end
