@@ -1,6 +1,6 @@
 #write your code here
 
-#INPUTS -->Starting number --> Integer
+#INPUTS -->Starting number of seconds from midnight --> Integer
 #OUTPUTS
 #ACTIONS
 
